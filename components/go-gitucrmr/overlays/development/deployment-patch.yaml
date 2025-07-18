@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: quay.io/rhtap_qe/go-gitucrmr:426f22cef2170f263951d065ef58f7cfb134fdbe@sha256:65218ff5d69a88e7f689e7257673faf331ff97c9e7c984ae916a8475f81fd7f3
+        - image: quay.io/rhtap_qe/go-gitucrmr:f698cafbea0990d4050c6283acf7c7417707bc8c@sha256:e97a7c1ddc6f331bdbbdf0cc7792cad0bbc66aee5b40451b61dfd5932c917504
           name: container-image
